@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CycleActivity</string>
+    <string name="TexteButton">Aller a activité 2</string>
+    <string name="textView">TexteMain2</string>
+</resources>
